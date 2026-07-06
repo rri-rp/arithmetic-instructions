@@ -1,0 +1,7 @@
+*.o
+equation1
+equation2
+equation3
+equation4
+.DS_Store
+.vscode/

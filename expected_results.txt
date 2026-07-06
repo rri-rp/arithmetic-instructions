@@ -1,0 +1,4 @@
+equation1 result = -50
+equation2 result = 30
+equation3 result = -1
+equation4 result = 8

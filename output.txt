@@ -1,0 +1,21 @@
+Assembling equation1.asm
+Linking equation1.o
+Running ./equation1
+equation1 completed. Use GDB to inspect result.
+
+Assembling equation2.asm
+Linking equation2.o
+Running ./equation2
+equation2 completed. Use GDB to inspect result.
+
+Assembling equation3.asm
+Linking equation3.o
+Running ./equation3
+equation3 completed. Use GDB to inspect result.
+
+Assembling equation4.asm
+Linking equation4.o
+Running ./equation4
+equation4 completed. Use GDB to inspect result.
+
+All programs completed. See expected_results.txt for expected result values.
